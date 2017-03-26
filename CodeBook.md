@@ -1,4 +1,3 @@
-put the codebook here
 field | description
 --- | ---
 subject | the test subject ID
