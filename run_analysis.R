@@ -46,8 +46,6 @@ for(i in seq_along(x)){
         
 }
 
-        write(x,"names.txt")
-        write(newnames, "newnames.txt")
 
 ## write main data set
 if(!file.exists("./data")){dir.create("./data")}
