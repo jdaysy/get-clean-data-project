@@ -19,7 +19,7 @@ Data from the UCI machine learning project described here http://archive.ics.uci
 all steps are contained in run_analysis.R
 
 ## To Use This Code (Input & Dependencies )
-run_analysis.R requires library dtplyr 
+**NOTE:**run_analysis.R requires library dtplyr 
 
 1. retrieve the data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones (see Download link at the top of the page)
 2. unzip the data. you will see a folder called "UCI HAR Dataset"
@@ -28,5 +28,5 @@ run_analysis.R requires library dtplyr
 
 ## Output
 the code will produce two files in a subfolder called "data"
-raw-UCI-HAR-data.txt - the raw readings for mean and standard deviation measures for all test and train subjects and activities
-summary-UCI-HAR-data.txt - a summary of the data showing averages of each metric by combination of subject and activity
+* raw-UCI-HAR-data.txt - the raw readings for mean and standard deviation measures for all test and train subjects and activities
+* summary-UCI-HAR-data.txt - a summary of the data showing averages of each metric by combination of subject and activity
