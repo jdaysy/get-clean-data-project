@@ -2,7 +2,7 @@
 
 position | field | description (original name)
 --- | --- | ---
-1 | subject | the test subject ID (integers 1:30)
+1 | subjectID | the test subject ID (integers 1:30)
 2 | activity | the measured activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 3 | mean_of_BodyAccMag_in_time | mean of body acceleration magnitude, time domain (tBodyAccMag-mean)
 4 | mean_of_GravityAccMag_in_time | mean of gravity acceleration magnitude, time domain (tGravityAccMag-mean)
