@@ -19,7 +19,7 @@ Data from the UCI machine learning project described here http://archive.ics.uci
 all steps are contained in run_analysis.R
 
 ## To Use This Code (Input & Dependencies )
-**NOTE:**run_analysis.R requires library dtplyr 
+**NOTE:** run_analysis.R requires library dtplyr 
 
 1. retrieve the data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones (see Download link at the top of the page)
 2. unzip the data. you will see a folder called "UCI HAR Dataset"
